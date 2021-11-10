@@ -1,15 +1,9 @@
-
-# %%
-# Python standard library
-import math
-import random
-
-# Scientific stack
 import numpy as np
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
 
+#
 # Visualization
 # ------------------------------------------------------------------------------
 def display_maze(graph, path=None, map=None):
